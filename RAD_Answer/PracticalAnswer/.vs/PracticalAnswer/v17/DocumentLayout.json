@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shakila Kamalasena\\Desktop\\RAD_Answer\\PracticalAnswer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C600C1-0923-4078-A822-7A9730D432AF}|PracticalAnswer.csproj|c:\\users\\shakila kamalasena\\desktop\\rad_answer\\practicalanswer\\view salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1C600C1-0923-4078-A822-7A9730D432AF}|PracticalAnswer.csproj|solutionrelative:view salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C600C1-0923-4078-A822-7A9730D432AF}|PracticalAnswer.csproj|C:\\Users\\Shakila Kamalasena\\Desktop\\RAD_Answer\\PracticalAnswer\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C600C1-0923-4078-A822-7A9730D432AF}|PracticalAnswer.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C600C1-0923-4078-A822-7A9730D432AF}|PracticalAnswer.csproj|C:\\Users\\Shakila Kamalasena\\Desktop\\RAD_Answer\\PracticalAnswer\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1C600C1-0923-4078-A822-7A9730D432AF}|PracticalAnswer.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C600C1-0923-4078-A822-7A9730D432AF}|PracticalAnswer.csproj|C:\\Users\\Shakila Kamalasena\\Desktop\\RAD_Answer\\PracticalAnswer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C600C1-0923-4078-A822-7A9730D432AF}|PracticalAnswer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C600C1-0923-4078-A822-7A9730D432AF}|PracticalAnswer.csproj|C:\\Users\\Shakila Kamalasena\\Desktop\\RAD_Answer\\PracticalAnswer\\add employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1C600C1-0923-4078-A822-7A9730D432AF}|PracticalAnswer.csproj|solutionrelative:add employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C600C1-0923-4078-A822-7A9730D432AF}|PracticalAnswer.csproj|C:\\Users\\Shakila Kamalasena\\Desktop\\RAD_Answer\\PracticalAnswer\\add employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C600C1-0923-4078-A822-7A9730D432AF}|PracticalAnswer.csproj|solutionrelative:add employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "View Salary.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Shakila Kamalasena\\Desktop\\RAD_Answer\\PracticalAnswer\\View Salary.cs",
+              "RelativeDocumentMoniker": "View Salary.cs",
+              "ToolTip": "C:\\Users\\Shakila Kamalasena\\Desktop\\RAD_Answer\\PracticalAnswer\\View Salary.cs [Design]",
+              "RelativeToolTip": "View Salary.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:41:37.598Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Add Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Shakila Kamalasena\\Desktop\\RAD_Answer\\PracticalAnswer\\Add Employee.cs",
+              "RelativeDocumentMoniker": "Add Employee.cs",
+              "ToolTip": "C:\\Users\\Shakila Kamalasena\\Desktop\\RAD_Answer\\PracticalAnswer\\Add Employee.cs",
+              "RelativeToolTip": "Add Employee.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAIAywBcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:34:58.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\Shakila Kamalasena\\Desktop\\RAD_Answer\\PracticalAnswer\\Home.cs",
+              "RelativeDocumentMoniker": "Home.cs",
+              "ToolTip": "C:\\Users\\Shakila Kamalasena\\Desktop\\RAD_Answer\\PracticalAnswer\\Home.cs",
+              "RelativeToolTip": "Home.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIA/wB4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:33:04.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Add Employee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Shakila Kamalasena\\Desktop\\RAD_Answer\\PracticalAnswer\\Add Employee.cs",
+              "RelativeDocumentMoniker": "Add Employee.cs",
+              "ToolTip": "C:\\Users\\Shakila Kamalasena\\Desktop\\RAD_Answer\\PracticalAnswer\\Add Employee.cs [Design]",
+              "RelativeToolTip": "Add Employee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:27:53.051Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shakila Kamalasena\\Desktop\\RAD_Answer\\PracticalAnswer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Shakila Kamalasena\\Desktop\\RAD_Answer\\PracticalAnswer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:23:31.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Shakila Kamalasena\\Desktop\\RAD_Answer\\PracticalAnswer\\Home.cs",
+              "RelativeDocumentMoniker": "Home.cs",
+              "ToolTip": "C:\\Users\\Shakila Kamalasena\\Desktop\\RAD_Answer\\PracticalAnswer\\Home.cs [Design]",
+              "RelativeToolTip": "Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T17:23:29.827Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
