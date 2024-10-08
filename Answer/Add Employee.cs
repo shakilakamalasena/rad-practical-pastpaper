@@ -53,7 +53,7 @@ namespace Answer
 
             Employee employee = new Employee(name, position, basicSalary, allowanceRate, transportUsed);
 
-            Employee_List.EmployeeList.Add(employee);
+            Employee.Employee_List.Add(employee);
 
             MessageBox.Show("Employee Addded Successfully!");
 

@@ -26,7 +26,7 @@ namespace Answer
             dt.Columns.Add("Position");
             dt.Columns.Add("Net Salary");
 
-            foreach (var emp in Employee_List.EmployeeList)
+            foreach (var emp in Employee.Employee_List)
             {
                 ISalaryComponent salaryComponent = emp;
 

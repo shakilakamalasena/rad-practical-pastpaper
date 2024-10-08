@@ -17,6 +17,8 @@ namespace Answer
         public double AllowanceRate { get; set; }
         public bool TransportUsed { get; set; }
 
+        public static List<Employee> Employee_List = new List<Employee>();
+
         public Employee(string name, string position, double basicSalary, double allowanceRate, bool transportUsed)
         {
             Name = name;
